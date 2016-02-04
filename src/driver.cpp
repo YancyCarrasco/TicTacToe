@@ -65,7 +65,9 @@ main()
 				cout << endl;
 				cout << endl;
 				
-				cout << "Thanks For Playing! You will now be returned to the Main Menu.";
+				cout << "**************************************************************\n";
+				cout << "Thanks For Playing! You will now be returned to the Main Menu.\n";
+				cout << "**************************************************************\n";
 				
 				cout << endl;
 				cout << endl;

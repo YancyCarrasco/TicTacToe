@@ -1,8 +1,6 @@
 /* Filename: TicTacToe.cpp
  * Author: Yancy Carrasco
  * Date: December 21, 2015
- * Class: CISC 2000 - Computer Science II
- * Professor: Christine Papadakis - Kanaris
  * Description: Contains definitons for the methods
  *		declared in TicTacToe.h (TicTacToe Class) 
  */

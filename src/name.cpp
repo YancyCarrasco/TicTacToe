@@ -1,6 +1,5 @@
 /* Filename: name.cpp
  * Author: Yancy Carrasco
- * Date: December 17, 2015
  * Description: Contains definitons for the methods
  *		declared in name.h (Name Class) 
  */

@@ -1,8 +1,6 @@
 /* Filename: cell.h
  * Author: Yancy Carrasco
  * Date: December 17, 2015
- * Class: CISC 2000 - Computer Science II
- * Professor: Christine Papadakis - Kanaris
  * Description: Contains declarations for methods 
  * 		and private data members of the Cell Class
  */
